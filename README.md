@@ -1,2 +1,1 @@
-# Vouchers project
- 
+This folder contains data from Cano, A., Cortes, D., Mantilla, C., Prada-Medina, L., & Restrepo, M. (2022, March 7). The trade-off between liquidity and insurance: voucher payments in a lab-in-the-field experiment with Colombian rural workers. https://doi.org/10.31219/osf.io/8ft4e
